@@ -4,7 +4,7 @@ author : Steven
 date : 2020-08-18 00:31:00 +0800
 categories : [Math]
 tags : [Math]
-math : True
+math : true
 ---
 
 # 테일러 급수 공식
